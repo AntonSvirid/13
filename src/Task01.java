@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 
 // поиск максимальной цифры в числе
 public class Task01 {
